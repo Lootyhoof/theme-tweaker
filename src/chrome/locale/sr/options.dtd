@@ -1,0 +1,31 @@
+<!ENTITY themefontsizechangeroptions.Zoom "Зум">
+<!ENTITY themefontsizechangeroptions.Font "Фонт">
+<!ENTITY themefontsizechangeroptions.Size "Величина">
+<!ENTITY themefontsizechangeroptions.Style "Стил">
+<!ENTITY themefontsizechangeroptions.Weight "Дебљина">
+<!ENTITY themefontsizechangeroptions.Color "Боја">
+<!ENTITY themefontsizechangeroptions.Save "Сачувај">
+<!ENTITY themefontsizechangeroptions.Cancel "Откажи">
+<!ENTITY themefontsizechangeroptions.Normal "нормална">
+<!ENTITY themefontsizechangeroptions.SizeNormal "нормална">
+<!ENTITY themefontsizechangeroptions.StyleNormal "нормалан">
+<!ENTITY themefontsizechangeroptions.WeightNormal "нормална">
+<!ENTITY themefontsizechangeroptions.ColorNormal "нормална">
+<!ENTITY themefontsizechangeroptions.BackgroundColorNormal "нормална">
+<!ENTITY themefontsizechangeroptions.OpenColorPicker "Отвори бирање боја">
+<!ENTITY themefontsizechangeroptions.Bold "подебљано">
+<!ENTITY themefontsizechangeroptions.Italic "искошено">
+<!ENTITY themefontsizechangeroptions.Default "подразумевана">
+<!ENTITY themefontsizechangeroptions.SizeDefault "подразумевана">
+<!ENTITY themefontsizechangeroptions.SizeCustom "прилагођена">
+<!ENTITY themefontsizechangeroptions.Apply "Примени">
+<!ENTITY themefontsizechangeroptions.StyleDefault "подразумевани">
+<!ENTITY themefontsizechangeroptions.WeightDefault "подразумевана">
+<!ENTITY themefontsizechangeroptions.ColorDefault "подразумевана">
+<!ENTITY themefontsizechangeroptions.BackgroundColorDefault "подразумевана">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColorDefault "подразумевана">
+<!ENTITY themefontsizechangeroptions.BackgroundColor "Боја позадине">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColor "Боја позадине плоче са темом">
+<!ENTITY themefontsizechangeroptions.ColorPicker "Бирање боје">
+<!ENTITY themefontsizechangeroptions.EnableSupportForContextMenus "Омогући подршку за приручне меније">
+<!ENTITY themefontsizechangeroptions.ContextMenu "Приручни мени">

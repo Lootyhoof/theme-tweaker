@@ -1,0 +1,16 @@
+content	themetweaker	chrome/content/ contentaccessible=yes
+skin	themetweaker	classic/1.0	chrome/skin/classic/
+locale	themetweaker	en-US	chrome/locale/en-US/
+locale	themetweaker	de	chrome/locale/de/
+locale	themetweaker	zh-CN	chrome/locale/zh-CN/
+locale	themetweaker	sr	chrome/locale/sr/
+locale	themetweaker	el	chrome/locale/el/
+locale	themetweaker	fr	chrome/locale/fr/
+locale	themetweaker	ja	chrome/locale/ja/
+locale	themetweaker	ko-KR	chrome/locale/ko-KR/
+locale	themetweaker	tr	chrome/locale/tr/
+locale	themetweaker	zh-TW	chrome/locale/zh-TW/
+locale	themetweaker	uk-UA	chrome/locale/uk-UA/
+locale	themetweaker	nl	chrome/locale/nl/
+locale	themetweaker	sl	chrome/locale/sl/
+resource themetweaker	/

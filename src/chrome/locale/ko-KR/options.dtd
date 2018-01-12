@@ -1,0 +1,31 @@
+<!ENTITY themefontsizechangeroptions.Zoom "확대/축소">
+<!ENTITY themefontsizechangeroptions.Font "글꼴">
+<!ENTITY themefontsizechangeroptions.Size "크기">
+<!ENTITY themefontsizechangeroptions.Style "서체">
+<!ENTITY themefontsizechangeroptions.Weight "굵기">
+<!ENTITY themefontsizechangeroptions.Color "색상">
+<!ENTITY themefontsizechangeroptions.Save "저장">
+<!ENTITY themefontsizechangeroptions.Cancel "취소">
+<!ENTITY themefontsizechangeroptions.Normal "보통">
+<!ENTITY themefontsizechangeroptions.SizeNormal "보통">
+<!ENTITY themefontsizechangeroptions.StyleNormal "보통">
+<!ENTITY themefontsizechangeroptions.WeightNormal "보통">
+<!ENTITY themefontsizechangeroptions.ColorNormal "보통">
+<!ENTITY themefontsizechangeroptions.BackgroundColorNormal "보통">
+<!ENTITY themefontsizechangeroptions.OpenColorPicker "색상 추출기 열기">
+<!ENTITY themefontsizechangeroptions.Bold "굵게">
+<!ENTITY themefontsizechangeroptions.Italic "기울임">
+<!ENTITY themefontsizechangeroptions.Default "기본값">
+<!ENTITY themefontsizechangeroptions.SizeDefault "기본값">
+<!ENTITY themefontsizechangeroptions.SizeCustom "사용자지정">
+<!ENTITY themefontsizechangeroptions.Apply "적용">
+<!ENTITY themefontsizechangeroptions.StyleDefault "기본값">
+<!ENTITY themefontsizechangeroptions.WeightDefault "기본값">
+<!ENTITY themefontsizechangeroptions.ColorDefault "기본값">
+<!ENTITY themefontsizechangeroptions.BackgroundColorDefault "기본값">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColorDefault "기본값">
+<!ENTITY themefontsizechangeroptions.BackgroundColor "배경 색상">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColor "쓰레드 패널 배경 색상">
+<!ENTITY themefontsizechangeroptions.ColorPicker "색상 추출기">
+<!ENTITY themefontsizechangeroptions.EnableSupportForContextMenus "상황메뉴에 지원 추가">
+<!ENTITY themefontsizechangeroptions.ContextMenu "상황메뉴">

@@ -1,0 +1,31 @@
+<!ENTITY themefontsizechangeroptions.Zoom "Povečaj">
+<!ENTITY themefontsizechangeroptions.Font "Pisava">
+<!ENTITY themefontsizechangeroptions.Size "Velikost">
+<!ENTITY themefontsizechangeroptions.Style "Slog">
+<!ENTITY themefontsizechangeroptions.Weight "Teža">
+<!ENTITY themefontsizechangeroptions.Color "Barva">
+<!ENTITY themefontsizechangeroptions.Save "Shrani">
+<!ENTITY themefontsizechangeroptions.Cancel "Prekliči">
+<!ENTITY themefontsizechangeroptions.Normal "Običajno">
+<!ENTITY themefontsizechangeroptions.SizeNormal "Običajna">
+<!ENTITY themefontsizechangeroptions.StyleNormal "Običajen">
+<!ENTITY themefontsizechangeroptions.WeightNormal "Običajna">
+<!ENTITY themefontsizechangeroptions.ColorNormal "Običajna">
+<!ENTITY themefontsizechangeroptions.BackgroundColorNormal "Običajna">
+<!ENTITY themefontsizechangeroptions.OpenColorPicker "Odpri izbirnik barv">
+<!ENTITY themefontsizechangeroptions.Bold "Krepko">
+<!ENTITY themefontsizechangeroptions.Italic "Ležeče">
+<!ENTITY themefontsizechangeroptions.Default "Privzeto">
+<!ENTITY themefontsizechangeroptions.SizeDefault "Privzeta">
+<!ENTITY themefontsizechangeroptions.SizeCustom "Po meri">
+<!ENTITY themefontsizechangeroptions.Apply "Uporabi">
+<!ENTITY themefontsizechangeroptions.StyleDefault "Privzeti">
+<!ENTITY themefontsizechangeroptions.WeightDefault "Privzeta">
+<!ENTITY themefontsizechangeroptions.ColorDefault "Privzeta">
+<!ENTITY themefontsizechangeroptions.BackgroundColorDefault "Privzeta">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColorDefault "Privzeta">
+<!ENTITY themefontsizechangeroptions.BackgroundColor "Barva ozadja">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColor "Barva ozadja podokna niti">
+<!ENTITY themefontsizechangeroptions.ColorPicker "Izbirnik barv">
+<!ENTITY themefontsizechangeroptions.EnableSupportForContextMenus "Omogoči podporo za vsebinske menije">
+<!ENTITY themefontsizechangeroptions.ContextMenu "Vsebinski meni">

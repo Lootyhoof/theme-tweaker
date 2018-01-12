@@ -1,0 +1,31 @@
+<!ENTITY themefontsizechangeroptions.Zoom "Zoom">
+<!ENTITY themefontsizechangeroptions.Font "字型">
+<!ENTITY themefontsizechangeroptions.Size "大小">
+<!ENTITY themefontsizechangeroptions.Style "樣式">
+<!ENTITY themefontsizechangeroptions.Weight "粗細">
+<!ENTITY themefontsizechangeroptions.Color "顏色">
+<!ENTITY themefontsizechangeroptions.Save "儲存">
+<!ENTITY themefontsizechangeroptions.Cancel "取消">
+<!ENTITY themefontsizechangeroptions.Normal "正常">
+<!ENTITY themefontsizechangeroptions.SizeNormal "正常">
+<!ENTITY themefontsizechangeroptions.StyleNormal "正常">
+<!ENTITY themefontsizechangeroptions.WeightNormal "正常">
+<!ENTITY themefontsizechangeroptions.ColorNormal "正常">
+<!ENTITY themefontsizechangeroptions.BackgroundColorNormal "正常">
+<!ENTITY themefontsizechangeroptions.OpenColorPicker "開啟色彩選擇器">
+<!ENTITY themefontsizechangeroptions.Bold "粗體">
+<!ENTITY themefontsizechangeroptions.Italic "斜體">
+<!ENTITY themefontsizechangeroptions.Default "預設">
+<!ENTITY themefontsizechangeroptions.SizeDefault "預設">
+<!ENTITY themefontsizechangeroptions.SizeCustom "Custom">
+<!ENTITY themefontsizechangeroptions.Apply "Apply">
+<!ENTITY themefontsizechangeroptions.StyleDefault "預設">
+<!ENTITY themefontsizechangeroptions.WeightDefault "預設">
+<!ENTITY themefontsizechangeroptions.ColorDefault "預設">
+<!ENTITY themefontsizechangeroptions.BackgroundColorDefault "預設">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColorDefault "Default">
+<!ENTITY themefontsizechangeroptions.BackgroundColor "Background Color">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColor "Thread Pane Background Color">
+<!ENTITY themefontsizechangeroptions.ColorPicker "Color Picker">
+<!ENTITY themefontsizechangeroptions.EnableSupportForContextMenus "Enable support for Context Menus">
+<!ENTITY themefontsizechangeroptions.ContextMenu "Context Menu">

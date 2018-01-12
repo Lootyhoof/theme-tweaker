@@ -1,0 +1,31 @@
+<!ENTITY themefontsizechangeroptions.Zoom "Zoom">
+<!ENTITY themefontsizechangeroptions.Font "Font">
+<!ENTITY themefontsizechangeroptions.Size "Size">
+<!ENTITY themefontsizechangeroptions.Style "Style">
+<!ENTITY themefontsizechangeroptions.Weight "Weight">
+<!ENTITY themefontsizechangeroptions.Color "Color">
+<!ENTITY themefontsizechangeroptions.Save "Save">
+<!ENTITY themefontsizechangeroptions.Cancel "Cancel">
+<!ENTITY themefontsizechangeroptions.Normal "Normal">
+<!ENTITY themefontsizechangeroptions.SizeNormal "Normal">
+<!ENTITY themefontsizechangeroptions.StyleNormal "Normal">
+<!ENTITY themefontsizechangeroptions.WeightNormal "Normal">
+<!ENTITY themefontsizechangeroptions.ColorNormal "Normal">
+<!ENTITY themefontsizechangeroptions.BackgroundColorNormal "Normal">
+<!ENTITY themefontsizechangeroptions.OpenColorPicker "Open Color Picker">
+<!ENTITY themefontsizechangeroptions.Bold "Bold">
+<!ENTITY themefontsizechangeroptions.Italic "Italic">
+<!ENTITY themefontsizechangeroptions.Default "Default">
+<!ENTITY themefontsizechangeroptions.SizeDefault "Default">
+<!ENTITY themefontsizechangeroptions.SizeCustom "Custom">
+<!ENTITY themefontsizechangeroptions.Apply "Apply">
+<!ENTITY themefontsizechangeroptions.StyleDefault "Default">
+<!ENTITY themefontsizechangeroptions.WeightDefault "Default">
+<!ENTITY themefontsizechangeroptions.ColorDefault "Default">
+<!ENTITY themefontsizechangeroptions.BackgroundColorDefault "Default">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColorDefault "Default">
+<!ENTITY themefontsizechangeroptions.BackgroundColor "Background Color">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColor "Thread Pane Background Color">
+<!ENTITY themefontsizechangeroptions.ColorPicker "Color Picker">
+<!ENTITY themefontsizechangeroptions.EnableSupportForContextMenus "Enable support for Context Menus">
+<!ENTITY themefontsizechangeroptions.ContextMenu "Context Menu">

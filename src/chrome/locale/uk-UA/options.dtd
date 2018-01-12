@@ -1,0 +1,31 @@
+<!ENTITY themefontsizechangeroptions.Zoom "Збільшення">
+<!ENTITY themefontsizechangeroptions.Font "Шрифт">
+<!ENTITY themefontsizechangeroptions.Size "Розмір">
+<!ENTITY themefontsizechangeroptions.Style "Стиль">
+<!ENTITY themefontsizechangeroptions.Weight "Товщина">
+<!ENTITY themefontsizechangeroptions.Color "Колір">
+<!ENTITY themefontsizechangeroptions.Save "Зберегти">
+<!ENTITY themefontsizechangeroptions.Cancel "Відміна">
+<!ENTITY themefontsizechangeroptions.Normal "Нормальний">
+<!ENTITY themefontsizechangeroptions.SizeNormal "Нормальний">
+<!ENTITY themefontsizechangeroptions.StyleNormal "Нормальний">
+<!ENTITY themefontsizechangeroptions.WeightNormal "Нормальний">
+<!ENTITY themefontsizechangeroptions.ColorNormal "Нормальний">
+<!ENTITY themefontsizechangeroptions.BackgroundColorNormal "Нормальний">
+<!ENTITY themefontsizechangeroptions.OpenColorPicker "Відкрити набір кольорів">
+<!ENTITY themefontsizechangeroptions.Bold "Жирний">
+<!ENTITY themefontsizechangeroptions.Italic "Курсив">
+<!ENTITY themefontsizechangeroptions.Default "За замовчуванням">
+<!ENTITY themefontsizechangeroptions.SizeDefault "За замовчуванням">
+<!ENTITY themefontsizechangeroptions.SizeCustom "Налаштований">
+<!ENTITY themefontsizechangeroptions.Apply "Застосувати">
+<!ENTITY themefontsizechangeroptions.StyleDefault "За замовчуванням">
+<!ENTITY themefontsizechangeroptions.WeightDefault "За замовчуванням">
+<!ENTITY themefontsizechangeroptions.ColorDefault "За замовчуванням">
+<!ENTITY themefontsizechangeroptions.BackgroundColorDefault "За замовчуванням">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColorDefault "За замовчуванням">
+<!ENTITY themefontsizechangeroptions.BackgroundColor "Колір тла">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColor "Колір тла пов’язаної панелі">
+<!ENTITY themefontsizechangeroptions.ColorPicker "Набір кольорів">
+<!ENTITY themefontsizechangeroptions.EnableSupportForContextMenus "Увімкнути підтримку для контекстних меню">
+<!ENTITY themefontsizechangeroptions.ContextMenu "Контекстне меню">

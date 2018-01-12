@@ -1,0 +1,31 @@
+<!ENTITY themefontsizechangeroptions.Zoom "Inzoomen">
+<!ENTITY themefontsizechangeroptions.Font "Lettertype">
+<!ENTITY themefontsizechangeroptions.Size "Grootte">
+<!ENTITY themefontsizechangeroptions.Style "Stijl">
+<!ENTITY themefontsizechangeroptions.Weight "Gewicht">
+<!ENTITY themefontsizechangeroptions.Color "Kleur">
+<!ENTITY themefontsizechangeroptions.Save "Opslaan">
+<!ENTITY themefontsizechangeroptions.Cancel "Annuleren">
+<!ENTITY themefontsizechangeroptions.Normal "Normaal">
+<!ENTITY themefontsizechangeroptions.SizeNormal "Normaal">
+<!ENTITY themefontsizechangeroptions.StyleNormal "Normaal">
+<!ENTITY themefontsizechangeroptions.WeightNormal "Normaal">
+<!ENTITY themefontsizechangeroptions.ColorNormal "Normaal">
+<!ENTITY themefontsizechangeroptions.BackgroundColorNormal "Normaal">
+<!ENTITY themefontsizechangeroptions.OpenColorPicker "Kleurkiezer openen">
+<!ENTITY themefontsizechangeroptions.Bold "Vet">
+<!ENTITY themefontsizechangeroptions.Italic "Schuin">
+<!ENTITY themefontsizechangeroptions.Default "Standaard">
+<!ENTITY themefontsizechangeroptions.SizeDefault "Standaard">
+<!ENTITY themefontsizechangeroptions.SizeCustom "Aangepast">
+<!ENTITY themefontsizechangeroptions.Apply "Toepassen">
+<!ENTITY themefontsizechangeroptions.StyleDefault "Standaard">
+<!ENTITY themefontsizechangeroptions.WeightDefault "Standaard">
+<!ENTITY themefontsizechangeroptions.ColorDefault "Standaard">
+<!ENTITY themefontsizechangeroptions.BackgroundColorDefault "Standaard">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColorDefault "Standaard">
+<!ENTITY themefontsizechangeroptions.BackgroundColor "Achtergrondkleur">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColor "Achtergrondkleur conversatiepaneel">
+<!ENTITY themefontsizechangeroptions.ColorPicker "Kleurkiezer">
+<!ENTITY themefontsizechangeroptions.EnableSupportForContextMenus "Ondersteuning voor contextmenu’s inschakelen">
+<!ENTITY themefontsizechangeroptions.ContextMenu "Contextmenu">

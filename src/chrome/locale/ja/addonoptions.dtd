@@ -1,0 +1,5 @@
+<!ENTITY themefontsizechangeraddonoptions.Preferences "設定">
+<!ENTITY themefontsizechangeraddonoptions.HideSBIcon "ステータスバーのアイコンを隠す">
+<!ENTITY themefontsizechangeraddonoptions.HideToolsMenu "ツールメニューのオプションを隠す">
+<!ENTITY themefontsizechangeraddonoptions.HideAppMenu "アプリメニューのオプションを隠す">
+<!ENTITY themefontsizechangeraddonoptions.AbbreviateToolbar "Abbreviate Toolbar Button Text">

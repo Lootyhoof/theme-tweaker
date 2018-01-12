@@ -1,0 +1,31 @@
+<!ENTITY themefontsizechangeroptions.Zoom "Μεγέθυνση">
+<!ENTITY themefontsizechangeroptions.Font "Γραμματοσειρά">
+<!ENTITY themefontsizechangeroptions.Size "Μέγεθος">
+<!ENTITY themefontsizechangeroptions.Style "Τεχνοτροπία">
+<!ENTITY themefontsizechangeroptions.Weight "Βαρύτητα">
+<!ENTITY themefontsizechangeroptions.Color "Χρώμα">
+<!ENTITY themefontsizechangeroptions.Save "Αποθήκευση">
+<!ENTITY themefontsizechangeroptions.Cancel "Ακύρωση">
+<!ENTITY themefontsizechangeroptions.Normal "Κανονική">
+<!ENTITY themefontsizechangeroptions.SizeNormal "Κανονικό">
+<!ENTITY themefontsizechangeroptions.StyleNormal "Κανονική">
+<!ENTITY themefontsizechangeroptions.WeightNormal "Κανονική">
+<!ENTITY themefontsizechangeroptions.ColorNormal "Κανονικό">
+<!ENTITY themefontsizechangeroptions.BackgroundColorNormal "Κανονικό">
+<!ENTITY themefontsizechangeroptions.OpenColorPicker "Άνοιγμα επιλογέα χρώματος">
+<!ENTITY themefontsizechangeroptions.Bold "Έντονη γραφή">
+<!ENTITY themefontsizechangeroptions.Italic "Πλάγια γραφή">
+<!ENTITY themefontsizechangeroptions.Default "Προκαθορισμένη">
+<!ENTITY themefontsizechangeroptions.SizeDefault "Προκαθορισμένο">
+<!ENTITY themefontsizechangeroptions.SizeCustom "Προσαρμοσμένο">
+<!ENTITY themefontsizechangeroptions.Apply "Εφαρμογή">
+<!ENTITY themefontsizechangeroptions.StyleDefault "Προκαθορισμένη">
+<!ENTITY themefontsizechangeroptions.WeightDefault "Προκαθορισμένη">
+<!ENTITY themefontsizechangeroptions.ColorDefault "Προκαθορισμένο">
+<!ENTITY themefontsizechangeroptions.BackgroundColorDefault "Προκαθορισμένο">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColorDefault "Προκαθορισμένο">
+<!ENTITY themefontsizechangeroptions.BackgroundColor "Χρώμα φόντου">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColor "Χρώμα φόντου πίνακα φακέλων">
+<!ENTITY themefontsizechangeroptions.ColorPicker "Επιλογέας χρώματος">
+<!ENTITY themefontsizechangeroptions.EnableSupportForContextMenus "Ενεργοποίηση υποστήριξης">
+<!ENTITY themefontsizechangeroptions.ContextMenu "Μενού περιεχομένου">

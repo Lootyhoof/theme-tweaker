@@ -1,0 +1,31 @@
+<!ENTITY themefontsizechangeroptions.Zoom "Büyütme">
+<!ENTITY themefontsizechangeroptions.Font "Yazı Tipi">
+<!ENTITY themefontsizechangeroptions.Size "Boyut">
+<!ENTITY themefontsizechangeroptions.Style "Stil">
+<!ENTITY themefontsizechangeroptions.Weight "Kalınlık">
+<!ENTITY themefontsizechangeroptions.Color "Renk">
+<!ENTITY themefontsizechangeroptions.Save "Kaydet">
+<!ENTITY themefontsizechangeroptions.Cancel "İptal">
+<!ENTITY themefontsizechangeroptions.Normal "Normal">
+<!ENTITY themefontsizechangeroptions.SizeNormal "Normal">
+<!ENTITY themefontsizechangeroptions.StyleNormal "Normal">
+<!ENTITY themefontsizechangeroptions.WeightNormal "Normal">
+<!ENTITY themefontsizechangeroptions.ColorNormal "Normal">
+<!ENTITY themefontsizechangeroptions.BackgroundColorNormal "Normal">
+<!ENTITY themefontsizechangeroptions.OpenColorPicker "Renk Seçiciyi Açın">
+<!ENTITY themefontsizechangeroptions.Bold "Kalın">
+<!ENTITY themefontsizechangeroptions.Italic "Italik">
+<!ENTITY themefontsizechangeroptions.Default "Varsayılan">
+<!ENTITY themefontsizechangeroptions.SizeDefault "Varsayılan">
+<!ENTITY themefontsizechangeroptions.SizeCustom "Özel">
+<!ENTITY themefontsizechangeroptions.Apply "Uygula">
+<!ENTITY themefontsizechangeroptions.StyleDefault "Varsayılan">
+<!ENTITY themefontsizechangeroptions.WeightDefault "Varsayılan">
+<!ENTITY themefontsizechangeroptions.ColorDefault "Varsayılan">
+<!ENTITY themefontsizechangeroptions.BackgroundColorDefault "Varsayılan">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColorDefault "Varsayılan">
+<!ENTITY themefontsizechangeroptions.BackgroundColor "Arkaplan Rengi">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColor "Mesaj Panosu Arka Plan Rengi">
+<!ENTITY themefontsizechangeroptions.ColorPicker "Renk Seçici">
+<!ENTITY themefontsizechangeroptions.EnableSupportForContextMenus "Sağ tıklama menğ desteğini aktifleştir">
+<!ENTITY themefontsizechangeroptions.ContextMenu "Sağ Tıklama Menüsü">

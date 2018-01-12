@@ -1,0 +1,31 @@
+<!ENTITY themefontsizechangeroptions.Zoom "Zoom">
+<!ENTITY themefontsizechangeroptions.Font "Police">
+<!ENTITY themefontsizechangeroptions.Size "Taille">
+<!ENTITY themefontsizechangeroptions.Style "Style">
+<!ENTITY themefontsizechangeroptions.Weight "Épaisseur">
+<!ENTITY themefontsizechangeroptions.Color "Couleur">
+<!ENTITY themefontsizechangeroptions.Save "Enregistrer">
+<!ENTITY themefontsizechangeroptions.Cancel "Annuler">
+<!ENTITY themefontsizechangeroptions.Normal "Normal">
+<!ENTITY themefontsizechangeroptions.SizeNormal "Normale">
+<!ENTITY themefontsizechangeroptions.StyleNormal "Normal">
+<!ENTITY themefontsizechangeroptions.WeightNormal "Normal">
+<!ENTITY themefontsizechangeroptions.ColorNormal "Normale">
+<!ENTITY themefontsizechangeroptions.BackgroundColorNormal "Normal">
+<!ENTITY themefontsizechangeroptions.OpenColorPicker "Ouvrir le sélecteur de couleurs">
+<!ENTITY themefontsizechangeroptions.Bold "Gras">
+<!ENTITY themefontsizechangeroptions.Italic "Italique">
+<!ENTITY themefontsizechangeroptions.Default "Par défaut">
+<!ENTITY themefontsizechangeroptions.SizeDefault "Par défaut">
+<!ENTITY themefontsizechangeroptions.SizeCustom "Personnalisée">
+<!ENTITY themefontsizechangeroptions.Apply "Appliquer">
+<!ENTITY themefontsizechangeroptions.StyleDefault "Par défaut">
+<!ENTITY themefontsizechangeroptions.WeightDefault "Par défaut">
+<!ENTITY themefontsizechangeroptions.ColorDefault "Par défaut">
+<!ENTITY themefontsizechangeroptions.BackgroundColorDefault "Par défaut">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColorDefault "Par défaut">
+<!ENTITY themefontsizechangeroptions.BackgroundColor "Couleur d'arrière-plan">
+<!ENTITY themefontsizechangeroptions.ThreadPaneBackgroundColor "Couleur d'arrière-plan du fil du panneau">
+<!ENTITY themefontsizechangeroptions.ColorPicker "Palette">
+<!ENTITY themefontsizechangeroptions.EnableSupportForContextMenus "Activer le support des menus contextuels">
+<!ENTITY themefontsizechangeroptions.ContextMenu "Menu contextuel">

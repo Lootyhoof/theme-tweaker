@@ -1,0 +1,5 @@
+<!ENTITY themefontsizechangeraddonoptions.Preferences "Préférences">
+<!ENTITY themefontsizechangeraddonoptions.HideSBIcon "Masquer l'icône de la barre des modules">
+<!ENTITY themefontsizechangeraddonoptions.HideToolsMenu "Masquer l'option du menu Outils">
+<!ENTITY themefontsizechangeraddonoptions.HideAppMenu "Masquer l'option du menu des applications">
+<!ENTITY themefontsizechangeraddonoptions.AbbreviateToolbar "Abbreviate Toolbar Button Text">
