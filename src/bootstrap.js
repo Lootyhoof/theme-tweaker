@@ -12,6 +12,7 @@ var ThemeFontSizeChanger = {
 	FIREFOX_ID:"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}", // Firefox/Basilisk/Waterfox
 	SEAMONKEY_ID:"{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}", // Seamonkey
 	PM_ID:"{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}", // Pale Moon
+	EPYRUS_ID:"{29877c1d-27df-4421-9a79-382c31470151}", // Epyrus
 	appInfo:Components.classes["@mozilla.org/xre/app-info;1"].getService(Components.interfaces.nsIXULAppInfo),
 	addonLiteralName:"Theme Tweaker", // Keep in sync with em:name in install.rdf
   addonShortName:"TTweak", // Short name used on toolbarbutton label (when enabled)
@@ -203,6 +204,7 @@ var ThemeFontSizeChanger = {
 	openURLInTab:function(window,url,prinstallrequested) {
 		switch (ThemeFontSizeChanger.appInfo.ID) {
 			case ThemeFontSizeChanger.THUNDERBIRD_ID:
+			case ThemeFontSizeChanger.EPYRUS_ID:
 				// Thunderbird's "openTab" implementation for the "contentTab" mode
 				// automatically switches to an existing tab containing the URL we are
 				// opening, so we don't have to check for one here.
@@ -1068,6 +1070,7 @@ var ThemeFontSizeChangerBootstrapAddon = {
 	getWindowType:function(){
 		switch (ThemeFontSizeChanger.appInfo.ID) {
 			case ThemeFontSizeChanger.THUNDERBIRD_ID:
+			case ThemeFontSizeChanger.EPYRUS_ID:
 				return "mail:3pane";	
 				break;
 			default:{
