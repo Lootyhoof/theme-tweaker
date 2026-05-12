@@ -5,6 +5,7 @@
 		THUNDERBIRD_ID:"{3550f703-e582-4d05-9a08-453d09bdfdc6}", // Thunderbird
 		FIREFOX_ID:"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}", // Firefox/Basilisk/Waterfox
 		PALEMOON_ID:"{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}", // Pale Moon
+		EPYRUS_ID:"{29877c1d-27df-4421-9a79-382c31470151}", // Epyrus
     addonLiteralName:"Theme Tweaker", // Keep in sync with em:name in install.rdf
     addonShortName:"TTweak", // Short name used on toolbarbutton label (when enabled)
 		appInfo:Components.classes["@mozilla.org/xre/app-info;1"].getService(Components.interfaces.nsIXULAppInfo),		
